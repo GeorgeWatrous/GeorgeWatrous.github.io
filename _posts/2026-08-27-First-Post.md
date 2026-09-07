@@ -3,6 +3,7 @@ title: "First Post"
 date: 2026-08-27 10:05:00 -0500
 categories: [Devlog]
 tags: [philosophy]
+description: Introduction to the Devlog.
 ---
 Hello, World!
 
