@@ -35,4 +35,4 @@ Possible paths forward:
 2. Unity Game Engine: The Unity Game Engine provides a huge amount of usability and accessibility, providing a framework, automatically optimizing, and generating multiple output formats including WebGLs that can be used on this site. This will make it difficult to interact with the LLM’s that will be trained and run in python.
 
 
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done. - Alan Turing"
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done." - Alan Turing
