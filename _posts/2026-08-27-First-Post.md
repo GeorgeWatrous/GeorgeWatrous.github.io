@@ -23,7 +23,7 @@ This section will address what I feel are the most important and relevant aspect
 *   **Code Ethics:** In student projects, code ethics are often abandoned. Documentation is the first to fall to the wayside, quickly followed by abstraction, and even clean formatting. With the time and resources I have, I will do my best to provide documentation and posts for each step of my process. Abstraction and reusability of code are not priorities in this project, but readability will remain forefront throughout the development process.
 *   **Licensing:** As a young and inexperienced developer, I do not know much about licensing and its potential impact on my project’s success. This website is under MIT License as it is built on the Chirpy Jekyll framework. The code for subsequent projects will remain with no license until I do more legal research. Any code posted on this website I consider free for the world to use. 
 
-## Inaugural Project: Jailbreak The Game
+## Inaugural Project: Zero Shot, The Game
 
 The first project is a video game. It will consist of a player character in a mystery setting (e.g. crime-solving or murder mystery plot). The player is tasked with solving the mystery, which involves discovering a specific piece of information: perhaps a culprit or a location. The player will move around a world and speak to other non-player characters. These characters will be powered by a custom-distilled LLM that is designed with rudimentary guardrails. The goal is to imitate the “Wild West” age of preliminary LLM usage when many would attempt to jailbreak existing language models. The player will have to “jailbreak” different characters through a variety of methods in order to discover the solution to the mystery. 
 
